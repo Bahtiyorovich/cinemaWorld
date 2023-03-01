@@ -118,7 +118,6 @@ window.addEventListener('DOMContentLoaded', () => { // bu qatordagi kod vazifasi
 
 
     // Modal: 
-
     const modalTrigger = document.querySelectorAll('[data-modal]'),
         modal = document.querySelector('.modal'),
         modalCloseBtn = document.querySelector('[data-close]');
